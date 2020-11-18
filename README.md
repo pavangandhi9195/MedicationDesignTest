@@ -1,1 +1,2 @@
-# MedicationDesignTest
+# MedicationAppSkillTest
+Skill Test - Practical Test
